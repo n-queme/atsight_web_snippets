@@ -2,7 +2,7 @@
 //  TabsRelated.tsx
 //  AtSight version 1.0.0
 //
-//  Created by Nathan Quême on the 06/22/22.
+//  Created by Nathan Quême.
 //
 
 import React, { useState, useEffect } from "react"
