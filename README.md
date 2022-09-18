@@ -5,5 +5,5 @@ The purpose of this repository is to share code snippets to show how the code is
 
 Please, do not use the code.
 
-![Home page preview](web_app_home_preview.png)
+![Web app preview](web_app_preview.png)
 
