@@ -6,7 +6,6 @@
 //  
 
 
-// @ts-check
 import { PageRelatedItem, Page, PageRelatedItemObj, RelatedItem } from '../../Data'
 import { createSlice } from '@reduxjs/toolkit'
 
