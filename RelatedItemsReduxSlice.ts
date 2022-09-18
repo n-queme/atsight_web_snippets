@@ -2,7 +2,7 @@
 //  RelatedItemsReduxSlice.ts
 //  AtSight version 1.0.0
 //
-//  Created by Nathan Quême on the 02/01/22 - 05/31/22.
+//  Created by Nathan Quême.
 //  
 
 
