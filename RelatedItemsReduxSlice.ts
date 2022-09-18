@@ -8,7 +8,6 @@
 
 import { PageRelatedItem, Page, PageRelatedItemObj, RelatedItem } from '../../Data'
 import { createSlice } from '@reduxjs/toolkit'
-
 import { queryRelatedItemsByMostRecent } from '../../aws/dynamodb'
 
 
